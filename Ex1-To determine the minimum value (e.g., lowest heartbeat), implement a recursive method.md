@@ -22,8 +22,8 @@ To write a JAVA program To determine the minimum value (e.g., lowest heartbeat),
 ## Program:
 
 ```
-Developed by: KIRAN G
-RegisterNumber:  212223040095
+Developed by: NAVEEN KUMAR S
+RegisterNumber:  212223040129
 
 ```
 
